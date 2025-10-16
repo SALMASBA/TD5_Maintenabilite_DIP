@@ -21,6 +21,7 @@ Ce travail met en pratique les **principes SOLID**, en particulier le **DIP (Dep
 5. Refactorisation du code pour respecter le DIP et améliorer la maintenabilité.
 
 ---
+![Image](./diagrammetp5.png)
 ## 👩‍💻 Réalisé par
 
 **Nom :** SBA SALMA 
